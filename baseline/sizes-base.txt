@@ -1,0 +1,9 @@
+40k -n alpha (success)                        537 B     1 records  {'summary': 537}
+40k -c zzzz (no match)                       1117 B     1 records  {'summary': 1117}
+40k -l zzzz -t py (nothing searched)         1757 B     2 records  {'diagnostic': 642, 'summary': 1115}
+40k bad regex                                 507 B     1 records  {'diagnostic': 507}
+40k missing path                              905 B     2 records  {'diagnostic': 464, 'summary': 441}
+40k --limit 10 -n alpha                       660 B     1 records  {'summary': 660}
+40k --within 2                                397 B     1 records  {'summary': 397}
+/usr -c e (errors flood)                    17594 B    34 records  {'diagnostic': 16776, 'summary': 818}
+/usr -l needle_not_there_xyz                19622 B    34 records  {'diagnostic': 16776, 'summary': 2846}

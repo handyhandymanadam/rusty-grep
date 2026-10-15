@@ -1,0 +1,17 @@
+### agent mode (RUSTY_AGENT=1): base vs new (normal), plain new for reference
+== 40k -n alpha
+hw-new                                   median      2.8 ms  min      2.7
+hw-base:RUSTY_AGENT=1                    median      3.3 ms  min      3.1
+hw-new:RUSTY_AGENT=1                     median      3.6 ms  min      3.5
+== 40k -c alpha
+hw-new                                   median      2.5 ms  min      2.4
+hw-base:RUSTY_AGENT=1                    median      2.8 ms  min      2.7
+hw-new:RUSTY_AGENT=1                     median      2.8 ms  min      2.7
+== 40k -l zzzz
+hw-new                                   median      2.4 ms  min      2.2
+hw-base:RUSTY_AGENT=1                    median      4.6 ms  min      4.3
+hw-new:RUSTY_AGENT=1                     median      3.3 ms  min      3.1
+== 40k -n zzzzzz
+hw-new                                   median      2.3 ms  min      2.2
+hw-base:RUSTY_AGENT=1                    median      4.6 ms  min      4.4
+hw-new:RUSTY_AGENT=1                     median      3.3 ms  min      3.2

@@ -1,0 +1,31 @@
+### plain (agent off), interleaved medians, base vs new
+== 40k -n alpha
+hw-base                                  median      2.9 ms  min      2.7
+hw-new                                   median      2.9 ms  min      2.7
+== 40k -c alpha
+hw-base                                  median      2.5 ms  min      2.4
+hw-new                                   median      2.5 ms  min      2.4
+== 40k -l zzzz
+hw-base                                  median      2.4 ms  min      2.2
+hw-new                                   median      2.3 ms  min      2.3
+== 40k --sort path -n alpha
+hw-base                                  median      3.5 ms  min      3.3
+hw-new                                   median      3.5 ms  min      3.4
+== 40k -j1 -n alpha
+hw-base                                  median      4.6 ms  min      4.5
+hw-new                                   median      4.7 ms  min      4.6
+== 40k --json alpha
+hw-base                                  median      4.0 ms  min      3.8
+hw-new                                   median      4.1 ms  min      3.9
+== /usr -c e
+hw-base                                  median    212.2 ms  min    209.5
+hw-new                                   median    212.2 ms  min    208.7
+== /usr -l needle_not_there_xyz
+hw-base                                  median    128.3 ms  min    124.3
+hw-new                                   median    128.0 ms  min    126.1
+== /usr --sort path -c e
+hw-base                                  median    427.3 ms  min    419.3
+hw-new                                   median    436.5 ms  min    431.0
+== /usr -n zzzzzz_none
+hw-base                                  median    129.8 ms  min    126.6
+hw-new                                   median    131.0 ms  min    127.9

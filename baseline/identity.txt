@@ -1,0 +1,2 @@
+ORDER /work/tmp/tree40k ['--stats', '-j1', '-n', 'alpha']
+49 commands, 1 differ

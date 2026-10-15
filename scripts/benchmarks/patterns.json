@@ -1,0 +1,1976 @@
+[
+{
+"id": 0,
+"cat": "literal-common",
+"pat": "from",
+"rg": [],
+"raw": []
+},
+{
+"id": 1,
+"cat": "literal-common",
+"pat": "else",
+"rg": [],
+"raw": []
+},
+{
+"id": 2,
+"cat": "literal-common",
+"pat": "check",
+"rg": [],
+"raw": []
+},
+{
+"id": 3,
+"cat": "literal-common",
+"pat": "link",
+"rg": [],
+"raw": []
+},
+{
+"id": 4,
+"cat": "literal-common",
+"pat": "chip",
+"rg": [],
+"raw": []
+},
+{
+"id": 5,
+"cat": "literal-common",
+"pat": "index",
+"rg": [],
+"raw": []
+},
+{
+"id": 6,
+"cat": "literal-common",
+"pat": "when",
+"rg": [],
+"raw": []
+},
+{
+"id": 7,
+"cat": "literal-common",
+"pat": "mode_lib",
+"rg": [],
+"raw": []
+},
+{
+"id": 8,
+"cat": "literal-common",
+"pat": "__user",
+"rg": [],
+"raw": []
+},
+{
+"id": 9,
+"cat": "literal-common",
+"pat": "time",
+"rg": [],
+"raw": []
+},
+{
+"id": 10,
+"cat": "literal-common",
+"pat": "control",
+"rg": [],
+"raw": []
+},
+{
+"id": 11,
+"cat": "literal-common",
+"pat": "parent_data",
+"rg": [],
+"raw": []
+},
+{
+"id": 12,
+"cat": "literal-common",
+"pat": "goto",
+"rg": [],
+"raw": []
+},
+{
+"id": 13,
+"cat": "literal-common",
+"pat": "number",
+"rg": [],
+"raw": []
+},
+{
+"id": 14,
+"cat": "literal-common",
+"pat": "value",
+"rg": [],
+"raw": []
+},
+{
+"id": 15,
+"cat": "literal-common",
+"pat": "should",
+"rg": [],
+"raw": []
+},
+{
+"id": 16,
+"cat": "literal-common",
+"pat": "clock",
+"rg": [],
+"raw": []
+},
+{
+"id": 17,
+"cat": "literal-common",
+"pat": "priv",
+"rg": [],
+"raw": []
+},
+{
+"id": 18,
+"cat": "literal-common",
+"pat": "num_parents",
+"rg": [],
+"raw": []
+},
+{
+"id": 19,
+"cat": "literal-common",
+"pat": "endif",
+"rg": [],
+"raw": []
+},
+{
+"id": 20,
+"cat": "literal-rare",
+"pat": "retw",
+"rg": [],
+"raw": []
+},
+{
+"id": 21,
+"cat": "literal-rare",
+"pat": "CONFIG_TN3270_CONSOLE",
+"rg": [],
+"raw": []
+},
+{
+"id": 22,
+"cat": "literal-rare",
+"pat": "XA_FLAGS_ALLOC1",
+"rg": [],
+"raw": []
+},
+{
+"id": 23,
+"cat": "literal-rare",
+"pat": "corepll",
+"rg": [],
+"raw": []
+},
+{
+"id": 24,
+"cat": "literal-rare",
+"pat": "authattrs_len",
+"rg": [],
+"raw": []
+},
+{
+"id": 25,
+"cat": "literal-rare",
+"pat": "RAMCR_CACHE_L2E",
+"rg": [],
+"raw": []
+},
+{
+"id": 26,
+"cat": "literal-rare",
+"pat": "MFC_Cntl",
+"rg": [],
+"raw": []
+},
+{
+"id": 27,
+"cat": "literal-rare",
+"pat": "max_rmp_pfn",
+"rg": [],
+"raw": []
+},
+{
+"id": 28,
+"cat": "literal-rare",
+"pat": "EXECMEM_MODULE_DATA",
+"rg": [],
+"raw": []
+},
+{
+"id": 29,
+"cat": "literal-rare",
+"pat": "calc_offset",
+"rg": [],
+"raw": []
+},
+{
+"id": 30,
+"cat": "literal-rare",
+"pat": "DAS1800_ID_AO",
+"rg": [],
+"raw": []
+},
+{
+"id": 31,
+"cat": "literal-rare",
+"pat": "shmem_set_epp",
+"rg": [],
+"raw": []
+},
+{
+"id": 32,
+"cat": "literal-rare",
+"pat": "MSR_IA32_UCODE_REV",
+"rg": [],
+"raw": []
+},
+{
+"id": 33,
+"cat": "literal-rare",
+"pat": "cam_cc_sm8150_resets",
+"rg": [],
+"raw": []
+},
+{
+"id": 34,
+"cat": "literal-rare",
+"pat": "_UTCR0",
+"rg": [],
+"raw": []
+},
+{
+"id": 35,
+"cat": "literal-rare",
+"pat": "_node_to_socket",
+"rg": [],
+"raw": []
+},
+{
+"id": 36,
+"cat": "literal-rare",
+"pat": "IVPU_MMU_Q_IDX",
+"rg": [],
+"raw": []
+},
+{
+"id": 37,
+"cat": "literal-rare",
+"pat": "RV1108_PLL_CON",
+"rg": [],
+"raw": []
+},
+{
+"id": 38,
+"cat": "literal-rare",
+"pat": "camcc_parent_data_7",
+"rg": [],
+"raw": []
+},
+{
+"id": 39,
+"cat": "literal-rare",
+"pat": "req_ref_set",
+"rg": [],
+"raw": []
+},
+{
+"id": 40,
+"cat": "literal-rare",
+"pat": "st_var_header",
+"rg": [],
+"raw": []
+},
+{
+"id": 41,
+"cat": "literal-rare",
+"pat": "Turris",
+"rg": [],
+"raw": []
+},
+{
+"id": 42,
+"cat": "literal-rare",
+"pat": "pkey_alloc",
+"rg": [],
+"raw": []
+},
+{
+"id": 43,
+"cat": "literal-rare",
+"pat": "__iowrite32_copy_full",
+"rg": [],
+"raw": []
+},
+{
+"id": 44,
+"cat": "literal-rare",
+"pat": "MAX_SI_TYPE_STR",
+"rg": [],
+"raw": []
+},
+{
+"id": 45,
+"cat": "literal-absent",
+"pat": "zqwkkjwwvx",
+"rg": [],
+"raw": []
+},
+{
+"id": 46,
+"cat": "literal-absent",
+"pat": "zqkkjjvwjx",
+"rg": [],
+"raw": []
+},
+{
+"id": 47,
+"cat": "literal-absent",
+"pat": "zqkxwwwjwj",
+"rg": [],
+"raw": []
+},
+{
+"id": 48,
+"cat": "literal-absent",
+"pat": "zqwjwvvvww",
+"rg": [],
+"raw": []
+},
+{
+"id": 49,
+"cat": "literal-absent",
+"pat": "zqjvkwjvxw",
+"rg": [],
+"raw": []
+},
+{
+"id": 50,
+"cat": "literal-absent",
+"pat": "zqxvwjvjwx",
+"rg": [],
+"raw": []
+},
+{
+"id": 51,
+"cat": "literal-absent",
+"pat": "zqkkwwjwww",
+"rg": [],
+"raw": []
+},
+{
+"id": 52,
+"cat": "literal-absent",
+"pat": "zqjjjvjkkj",
+"rg": [],
+"raw": []
+},
+{
+"id": 53,
+"cat": "literal-absent",
+"pat": "zqvvvwkkxv",
+"rg": [],
+"raw": []
+},
+{
+"id": 54,
+"cat": "literal-absent",
+"pat": "zqkxkxwkjx",
+"rg": [],
+"raw": []
+},
+{
+"id": 55,
+"cat": "literal-short",
+"pat": "sets",
+"rg": [],
+"raw": []
+},
+{
+"id": 56,
+"cat": "literal-short",
+"pat": "gpio",
+"rg": [],
+"raw": []
+},
+{
+"id": 57,
+"cat": "literal-short",
+"pat": "xb8",
+"rg": [],
+"raw": []
+},
+{
+"id": 58,
+"cat": "literal-short",
+"pat": "see",
+"rg": [],
+"raw": []
+},
+{
+"id": 59,
+"cat": "literal-short",
+"pat": "has",
+"rg": [],
+"raw": []
+},
+{
+"id": 60,
+"cat": "literal-short",
+"pat": "aux",
+"rg": [],
+"raw": []
+},
+{
+"id": 61,
+"cat": "literal-short",
+"pat": "xc2",
+"rg": [],
+"raw": []
+},
+{
+"id": 62,
+"cat": "literal-short",
+"pat": "intr",
+"rg": [],
+"raw": []
+},
+{
+"id": 63,
+"cat": "literal-short",
+"pat": "soc",
+"rg": [],
+"raw": []
+},
+{
+"id": 64,
+"cat": "literal-short",
+"pat": "area",
+"rg": [],
+"raw": []
+},
+{
+"id": 65,
+"cat": "literal-short",
+"pat": "x81",
+"rg": [],
+"raw": []
+},
+{
+"id": 66,
+"cat": "literal-short",
+"pat": "x84",
+"rg": [],
+"raw": []
+},
+{
+"id": 67,
+"cat": "literal-short",
+"pat": "WITH",
+"rg": [],
+"raw": []
+},
+{
+"id": 68,
+"cat": "literal-short",
+"pat": "USB",
+"rg": [],
+"raw": []
+},
+{
+"id": 69,
+"cat": "literal-short",
+"pat": "info",
+"rg": [],
+"raw": []
+},
+{
+"id": 70,
+"cat": "literal-short",
+"pat": "PTE",
+"rg": [],
+"raw": []
+},
+{
+"id": 71,
+"cat": "literal-short",
+"pat": "caps",
+"rg": [],
+"raw": []
+},
+{
+"id": 72,
+"cat": "literal-short",
+"pat": "rta",
+"rg": [],
+"raw": []
+},
+{
+"id": 73,
+"cat": "literal-short",
+"pat": "x55",
+"rg": [],
+"raw": []
+},
+{
+"id": 74,
+"cat": "literal-short",
+"pat": "obj",
+"rg": [],
+"raw": []
+},
+{
+"id": 75,
+"cat": "word-boundary-w",
+"pat": "p4d",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 76,
+"cat": "word-boundary-w",
+"pat": "odd",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 77,
+"cat": "word-boundary-w",
+"pat": "There",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 78,
+"cat": "word-boundary-w",
+"pat": "x77",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 79,
+"cat": "word-boundary-w",
+"pat": "ip_caps",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 80,
+"cat": "word-boundary-w",
+"pat": "subL",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 81,
+"cat": "word-boundary-w",
+"pat": "of_property_read_u32",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 82,
+"cat": "word-boundary-w",
+"pat": "pci_ops",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 83,
+"cat": "word-boundary-w",
+"pat": "unsupported",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 84,
+"cat": "word-boundary-w",
+"pat": "argv",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 85,
+"cat": "word-boundary-w",
+"pat": "inside",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 86,
+"cat": "word-boundary-w",
+"pat": "RK3066_PLL_RATE",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 87,
+"cat": "word-boundary-w",
+"pat": "irq_service",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 88,
+"cat": "word-boundary-w",
+"pat": "Also",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 89,
+"cat": "word-boundary-w",
+"pat": "lib",
+"rg": [
+"-w"
+],
+"raw": [
+"-w"
+]
+},
+{
+"id": 90,
+"cat": "ignore-case",
+"pat": "Perform",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 91,
+"cat": "ignore-case",
+"pat": "vlen",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 92,
+"cat": "ignore-case",
+"pat": "x6D",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 93,
+"cat": "ignore-case",
+"pat": "Interrupts",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 94,
+"cat": "ignore-case",
+"pat": "num_vfs",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 95,
+"cat": "ignore-case",
+"pat": "dec",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 96,
+"cat": "ignore-case",
+"pat": "masked",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 97,
+"cat": "ignore-case",
+"pat": "hw_clk_ctrl",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 98,
+"cat": "ignore-case",
+"pat": "val_bits",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 99,
+"cat": "ignore-case",
+"pat": "seg",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 100,
+"cat": "ignore-case",
+"pat": "HEADER",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 101,
+"cat": "ignore-case",
+"pat": "General",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 102,
+"cat": "ignore-case",
+"pat": "int32_t",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 103,
+"cat": "ignore-case",
+"pat": "fw_name",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 104,
+"cat": "ignore-case",
+"pat": "x5e",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 105,
+"cat": "ignore-case",
+"pat": "xD2",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 106,
+"cat": "ignore-case",
+"pat": "scsi",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 107,
+"cat": "ignore-case",
+"pat": "SwathHeightC",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 108,
+"cat": "ignore-case",
+"pat": "mediatek",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 109,
+"cat": "ignore-case",
+"pat": "kbuf",
+"rg": [
+"-i"
+],
+"raw": [
+"-i"
+]
+},
+{
+"id": 110,
+"cat": "alternation-2",
+"pat": "handlers|apb",
+"rg": [],
+"raw": []
+},
+{
+"id": 111,
+"cat": "alternation-2",
+"pat": "attributes|random",
+"rg": [],
+"raw": []
+},
+{
+"id": 112,
+"cat": "alternation-2",
+"pat": "CPT|clk_regmap_mux_ops",
+"rg": [],
+"raw": []
+},
+{
+"id": 113,
+"cat": "alternation-2",
+"pat": "AUTHOR|flash",
+"rg": [],
+"raw": []
+},
+{
+"id": 114,
+"cat": "alternation-2",
+"pat": "rights|alt",
+"rg": [],
+"raw": []
+},
+{
+"id": 115,
+"cat": "alternation-2",
+"pat": "__free|immediately",
+"rg": [],
+"raw": []
+},
+{
+"id": 116,
+"cat": "alternation-2",
+"pat": "pkey|__BITFIELD_FIELD",
+"rg": [],
+"raw": []
+},
+{
+"id": 117,
+"cat": "alternation-2",
+"pat": "gpio_chip|ptrace",
+"rg": [],
+"raw": []
+},
+{
+"id": 118,
+"cat": "alternation-3",
+"pat": "instructions|readl_relaxed|bitfield",
+"rg": [],
+"raw": []
+},
+{
+"id": 119,
+"cat": "alternation-3",
+"pat": "enc110|Error|Destination",
+"rg": [],
+"raw": []
+},
+{
+"id": 120,
+"cat": "alternation-3",
+"pat": "pdf|secs|ghcb",
+"rg": [],
+"raw": []
+},
+{
+"id": 121,
+"cat": "alternation-3",
+"pat": "PCMCIA|ident|xDE",
+"rg": [],
+"raw": []
+},
+{
+"id": 122,
+"cat": "alternation-3",
+"pat": "loop|fw_loader|description",
+"rg": [],
+"raw": []
+},
+{
+"id": 123,
+"cat": "alternation-3",
+"pat": "aSign|Qualcomm|x4a",
+"rg": [],
+"raw": []
+},
+{
+"id": 124,
+"cat": "alternation-3",
+"pat": "LUT|_SB_MAKEMASK|compat_ulong_t",
+"rg": [],
+"raw": []
+},
+{
+"id": 125,
+"cat": "alternation-3",
+"pat": "node_id|xce|destination",
+"rg": [],
+"raw": []
+},
+{
+"id": 126,
+"cat": "alternation-4",
+"pat": "directory|definitions|increase|ensures",
+"rg": [],
+"raw": []
+},
+{
+"id": 127,
+"cat": "alternation-4",
+"pat": "attach|ratios|auprobe|x3e",
+"rg": [],
+"raw": []
+},
+{
+"id": 128,
+"cat": "alternation-4",
+"pat": "container_of|wrapper|Unit|cptpf",
+"rg": [],
+"raw": []
+},
+{
+"id": 129,
+"cat": "alternation-4",
+"pat": "NOT|explicit|sizes|reserved2",
+"rg": [],
+"raw": []
+},
+{
+"id": 130,
+"cat": "alternation-4",
+"pat": "rings|kobject_put|individual|writeb",
+"rg": [],
+"raw": []
+},
+{
+"id": 131,
+"cat": "alternation-4",
+"pat": "branch|num_regs|nbio|adev_to_drm",
+"rg": [],
+"raw": []
+},
+{
+"id": 132,
+"cat": "alternation-4",
+"pat": "Freescale|too|kvm_mmu_page|aren",
+"rg": [],
+"raw": []
+},
+{
+"id": 133,
+"cat": "alternation-4",
+"pat": "x36|Create|RV1108_CLKGATE_CON|crypto_async_request",
+"rg": [],
+"raw": []
+},
+{
+"id": 134,
+"cat": "alternation-6",
+"pat": "functions|mpcc_id|record|software|mds|EBUSY",
+"rg": [],
+"raw": []
+},
+{
+"id": 135,
+"cat": "alternation-6",
+"pat": "clock_table|qcom|dscc|DPP|get_random_bytes|event_mask",
+"rg": [],
+"raw": []
+},
+{
+"id": 136,
+"cat": "alternation-6",
+"pat": "CONFIG_X86_32|processors|mtk_clk_gate_ops_setclr|Store|xce|NI_CtrGate",
+"rg": [],
+"raw": []
+},
+{
+"id": 137,
+"cat": "alternation-6",
+"pat": "max_size|node_id|float|video|executed|m32",
+"rg": [],
+"raw": []
+},
+{
+"id": 138,
+"cat": "alternation-6",
+"pat": "vbios|dbg|certain|dcfclk|Actual|drv_data",
+"rg": [],
+"raw": []
+},
+{
+"id": 139,
+"cat": "alternation-6",
+"pat": "deprecated|x50|Init|x6e|client_id|banks",
+"rg": [],
+"raw": []
+},
+{
+"id": 140,
+"cat": "alternation-6",
+"pat": "x1B|applied|sie_block|x67|xD3|REG_READ",
+"rg": [],
+"raw": []
+},
+{
+"id": 141,
+"cat": "alternation-6",
+"pat": "cmdline|override|core_types|u_regs|Thus|There",
+"rg": [],
+"raw": []
+},
+{
+"id": 142,
+"cat": "anchor-start",
+"pat": "^#include <linux",
+"rg": [],
+"raw": []
+},
+{
+"id": 143,
+"cat": "anchor-start",
+"pat": "^static",
+"rg": [],
+"raw": []
+},
+{
+"id": 144,
+"cat": "anchor-start",
+"pat": "^\\t",
+"rg": [],
+"raw": []
+},
+{
+"id": 145,
+"cat": "anchor-start",
+"pat": "^\\s*if",
+"rg": [],
+"raw": []
+},
+{
+"id": 146,
+"cat": "anchor-start",
+"pat": "^\\s*return",
+"rg": [],
+"raw": []
+},
+{
+"id": 147,
+"cat": "anchor-start",
+"pat": "^#define",
+"rg": [],
+"raw": []
+},
+{
+"id": 148,
+"cat": "anchor-start",
+"pat": "^\\*",
+"rg": [],
+"raw": []
+},
+{
+"id": 149,
+"cat": "anchor-start",
+"pat": "^//",
+"rg": [],
+"raw": []
+},
+{
+"id": 150,
+"cat": "anchor-start",
+"pat": "^}",
+"rg": [],
+"raw": []
+},
+{
+"id": 151,
+"cat": "anchor-start",
+"pat": "^struct",
+"rg": [],
+"raw": []
+},
+{
+"id": 152,
+"cat": "anchor-start",
+"pat": "^\\s*/\\*",
+"rg": [],
+"raw": []
+},
+{
+"id": 153,
+"cat": "anchor-start",
+"pat": "^EXPORT_SYMBOL",
+"rg": [],
+"raw": []
+},
+{
+"id": 154,
+"cat": "anchor-start",
+"pat": "^#ifdef",
+"rg": [],
+"raw": []
+},
+{
+"id": 155,
+"cat": "anchor-start",
+"pat": "^#endif",
+"rg": [],
+"raw": []
+},
+{
+"id": 156,
+"cat": "anchor-start",
+"pat": "^int ",
+"rg": [],
+"raw": []
+},
+{
+"id": 157,
+"cat": "anchor-end",
+"pat": ";$",
+"rg": [],
+"raw": []
+},
+{
+"id": 158,
+"cat": "anchor-end",
+"pat": "\\{$",
+"rg": [],
+"raw": []
+},
+{
+"id": 159,
+"cat": "anchor-end",
+"pat": "\\)$",
+"rg": [],
+"raw": []
+},
+{
+"id": 160,
+"cat": "anchor-end",
+"pat": ",$",
+"rg": [],
+"raw": []
+},
+{
+"id": 161,
+"cat": "anchor-end",
+"pat": "\\\\$",
+"rg": [],
+"raw": []
+},
+{
+"id": 162,
+"cat": "anchor-end",
+"pat": "\\*/$",
+"rg": [],
+"raw": []
+},
+{
+"id": 163,
+"cat": "anchor-end",
+"pat": "\\}$",
+"rg": [],
+"raw": []
+},
+{
+"id": 164,
+"cat": "anchor-end",
+"pat": "0$",
+"rg": [],
+"raw": []
+},
+{
+"id": 165,
+"cat": "anchor-end",
+"pat": "\\);$",
+"rg": [],
+"raw": []
+},
+{
+"id": 166,
+"cat": "anchor-end",
+"pat": "\\) \\{$",
+"rg": [],
+"raw": []
+},
+{
+"id": 167,
+"cat": "anchor-both",
+"pat": "^$",
+"rg": [],
+"raw": []
+},
+{
+"id": 168,
+"cat": "anchor-both",
+"pat": "^\\s*$",
+"rg": [],
+"raw": []
+},
+{
+"id": 169,
+"cat": "anchor-both",
+"pat": "^\\}$",
+"rg": [],
+"raw": []
+},
+{
+"id": 170,
+"cat": "class-repetition",
+"pat": "[A-Z]+_[A-Z]+",
+"rg": [],
+"raw": []
+},
+{
+"id": 171,
+"cat": "class-repetition",
+"pat": "0x[0-9a-f]+",
+"rg": [],
+"raw": []
+},
+{
+"id": 172,
+"cat": "class-repetition",
+"pat": "[0-9]+",
+"rg": [],
+"raw": []
+},
+{
+"id": 173,
+"cat": "class-repetition",
+"pat": "u(8|16|32|64)\\b",
+"rg": [],
+"raw": []
+},
+{
+"id": 174,
+"cat": "class-repetition",
+"pat": "\\w+_lock\\(",
+"rg": [],
+"raw": []
+},
+{
+"id": 175,
+"cat": "class-repetition",
+"pat": "[a-z]+_t\\b",
+"rg": [],
+"raw": []
+},
+{
+"id": 176,
+"cat": "class-repetition",
+"pat": "__[a-z]+__",
+"rg": [],
+"raw": []
+},
+{
+"id": 177,
+"cat": "class-repetition",
+"pat": "\\bNULL\\b",
+"rg": [],
+"raw": []
+},
+{
+"id": 178,
+"cat": "class-repetition",
+"pat": "[<>]=?",
+"rg": [],
+"raw": []
+},
+{
+"id": 179,
+"cat": "class-repetition",
+"pat": "\\d{4}-\\d{2}",
+"rg": [],
+"raw": []
+},
+{
+"id": 180,
+"cat": "class-repetition",
+"pat": "[A-Z][a-z]+[A-Z]",
+"rg": [],
+"raw": []
+},
+{
+"id": 181,
+"cat": "class-repetition",
+"pat": "(?:un)?likely\\(",
+"rg": [],
+"raw": []
+},
+{
+"id": 182,
+"cat": "class-repetition",
+"pat": "[a-z_]+\\(void\\)",
+"rg": [],
+"raw": []
+},
+{
+"id": 183,
+"cat": "class-repetition",
+"pat": "\\bint\\s+\\w+\\s*=",
+"rg": [],
+"raw": []
+},
+{
+"id": 184,
+"cat": "class-repetition",
+"pat": "0[xX][0-9A-Fa-f]{8}\\b",
+"rg": [],
+"raw": []
+},
+{
+"id": 185,
+"cat": "class-repetition",
+"pat": "\\bkfree\\b|\\bkmalloc\\b",
+"rg": [],
+"raw": []
+},
+{
+"id": 186,
+"cat": "class-repetition",
+"pat": "foo|bar|baz",
+"rg": [],
+"raw": []
+},
+{
+"id": 187,
+"cat": "class-repetition",
+"pat": "colou?r",
+"rg": [],
+"raw": []
+},
+{
+"id": 188,
+"cat": "class-repetition",
+"pat": "a{2,3}b",
+"rg": [],
+"raw": []
+},
+{
+"id": 189,
+"cat": "class-repetition",
+"pat": "(?i)todo",
+"rg": [],
+"raw": []
+},
+{
+"id": 190,
+"cat": "class-repetition",
+"pat": "\\w{12,}",
+"rg": [],
+"raw": []
+},
+{
+"id": 191,
+"cat": "class-repetition",
+"pat": "\\b[A-Z]{4,}\\b",
+"rg": [],
+"raw": []
+},
+{
+"id": 192,
+"cat": "class-repetition",
+"pat": "[^a-z\\s]{6}",
+"rg": [],
+"raw": []
+},
+{
+"id": 193,
+"cat": "class-repetition",
+"pat": ".{80,}",
+"rg": [],
+"raw": []
+},
+{
+"id": 194,
+"cat": "class-repetition",
+"pat": "\\S+@\\S+",
+"rg": [],
+"raw": []
+},
+{
+"id": 195,
+"cat": "class-repetition",
+"pat": "\\$\\(\\w+\\)",
+"rg": [],
+"raw": []
+},
+{
+"id": 196,
+"cat": "inner-required",
+"pat": "PI_EXPORT_SYM.*__inittext_end",
+"rg": [],
+"raw": []
+},
+{
+"id": 197,
+"cat": "inner-required",
+"pat": "Check.*suitable",
+"rg": [],
+"raw": []
+},
+{
+"id": 198,
+"cat": "inner-required",
+"pat": "const.*value",
+"rg": [],
+"raw": []
+},
+{
+"id": 199,
+"cat": "inner-required",
+"pat": "vcpu.*notify_window_exits",
+"rg": [],
+"raw": []
+},
+{
+"id": 200,
+"cat": "inner-required",
+"pat": "define.*D2F1_PCIE_LC_BW_CHANGE_CNTL__LC_RELIABILITY_SPEED_CHANGE_MASK",
+"rg": [],
+"raw": []
+},
+{
+"id": 201,
+"cat": "inner-required",
+"pat": "struct.*clkdm_dep",
+"rg": [],
+"raw": []
+},
+{
+"id": 202,
+"cat": "inner-required",
+"pat": "This.*specified",
+"rg": [],
+"raw": []
+},
+{
+"id": 203,
+"cat": "inner-required",
+"pat": "digest_algo.*sha3",
+"rg": [],
+"raw": []
+},
+{
+"id": 204,
+"cat": "inner-required",
+"pat": "update_state.*iter_axes_extended_name_update_state",
+"rg": [],
+"raw": []
+},
+{
+"id": 205,
+"cat": "inner-required",
+"pat": "init.*clk_init_data",
+"rg": [],
+"raw": []
+},
+{
+"id": 206,
+"cat": "inner-required",
+"pat": "define.*x8000",
+"rg": [],
+"raw": []
+},
+{
+"id": 207,
+"cat": "inner-required",
+"pat": "else.*DestinationLinesToRequestVMInVBlank",
+"rg": [],
+"raw": []
+},
+{
+"id": 208,
+"cat": "inner-required",
+"pat": "SOFTWARE.*EXPRESS",
+"rg": [],
+"raw": []
+},
+{
+"id": 209,
+"cat": "inner-required",
+"pat": "case.*OP_TLBI_VAAE1ISNXS",
+"rg": [],
+"raw": []
+},
+{
+"id": 210,
+"cat": "inner-required",
+"pat": "DEF_MOD.*MOD_CLK_ID",
+"rg": [],
+"raw": []
+},
+{
+"id": 211,
+"cat": "inner-required",
+"pat": "define.*x35663C",
+"rg": [],
+"raw": []
+},
+{
+"id": 212,
+"cat": "inner-required",
+"pat": "struct.*connector",
+"rg": [],
+"raw": []
+},
+{
+"id": 213,
+"cat": "inner-required",
+"pat": "struct.*config_lock",
+"rg": [],
+"raw": []
+},
+{
+"id": 214,
+"cat": "inner-required",
+"pat": "clk_mgr_dcn35.*low_part",
+"rg": [],
+"raw": []
+},
+{
+"id": 215,
+"cat": "inner-required",
+"pat": "define.*DSI0_DISP_DSI_DENG_FIFO_STATUS__DENG_FIFO_MAXIMUM_LEVEL__SHIFT",
+"rg": [],
+"raw": []
+},
+{
+"id": 216,
+"cat": "inner-required",
+"pat": "base.*address",
+"rg": [],
+"raw": []
+},
+{
+"id": 217,
+"cat": "inner-required",
+"pat": "void.*cmd_q",
+"rg": [],
+"raw": []
+},
+{
+"id": 218,
+"cat": "inner-required",
+"pat": "define.*x106b",
+"rg": [],
+"raw": []
+},
+{
+"id": 219,
+"cat": "unicode",
+"pat": "\u00e9",
+"rg": [],
+"raw": []
+},
+{
+"id": 220,
+"cat": "unicode",
+"pat": "\u00fc",
+"rg": [],
+"raw": []
+},
+{
+"id": 221,
+"cat": "unicode",
+"pat": "\u00b5",
+"rg": [],
+"raw": []
+},
+{
+"id": 222,
+"cat": "unicode",
+"pat": "\u2014",
+"rg": [],
+"raw": []
+},
+{
+"id": 223,
+"cat": "unicode",
+"pat": "\u00df",
+"rg": [],
+"raw": []
+},
+{
+"id": 224,
+"cat": "unicode",
+"pat": "\u00f8",
+"rg": [],
+"raw": []
+},
+{
+"id": 225,
+"cat": "unicode",
+"pat": "\u2192",
+"rg": [],
+"raw": []
+},
+{
+"id": 226,
+"cat": "unicode",
+"pat": "\u00f1",
+"rg": [],
+"raw": []
+},
+{
+"id": 227,
+"cat": "escaped-meta",
+"pat": "foo\\(",
+"rg": [],
+"raw": []
+},
+{
+"id": 228,
+"cat": "escaped-meta",
+"pat": "\\.c\\b",
+"rg": [],
+"raw": []
+},
+{
+"id": 229,
+"cat": "escaped-meta",
+"pat": "\\$\\(",
+"rg": [],
+"raw": []
+},
+{
+"id": 230,
+"cat": "escaped-meta",
+"pat": "a\\+b",
+"rg": [],
+"raw": []
+},
+{
+"id": 231,
+"cat": "escaped-meta",
+"pat": "\\[0\\]",
+"rg": [],
+"raw": []
+},
+{
+"id": 232,
+"cat": "escaped-meta",
+"pat": "x\\|y",
+"rg": [],
+"raw": []
+},
+{
+"id": 233,
+"cat": "escaped-meta",
+"pat": "->",
+"rg": [],
+"raw": []
+},
+{
+"id": 234,
+"cat": "escaped-meta",
+"pat": "\\\\n",
+"rg": [],
+"raw": []
+},
+{
+"id": 235,
+"cat": "escaped-meta",
+"pat": "\"%s\"",
+"rg": [],
+"raw": []
+},
+{
+"id": 236,
+"cat": "escaped-meta",
+"pat": "\\*\\*",
+"rg": [],
+"raw": []
+},
+{
+"id": 237,
+"cat": "matches-everything",
+"pat": "x*",
+"rg": [],
+"raw": []
+},
+{
+"id": 238,
+"cat": "matches-everything",
+"pat": "a?",
+"rg": [],
+"raw": []
+},
+{
+"id": 239,
+"cat": "matches-everything",
+"pat": "\\b",
+"rg": [],
+"raw": []
+},
+{
+"id": 240,
+"cat": "matches-everything",
+"pat": "(?:)",
+"rg": [],
+"raw": []
+},
+{
+"id": 241,
+"cat": "whitespace",
+"pat": "\\s+$",
+"rg": [],
+"raw": []
+},
+{
+"id": 242,
+"cat": "whitespace",
+"pat": "^\\s+",
+"rg": [],
+"raw": []
+},
+{
+"id": 243,
+"cat": "whitespace",
+"pat": "\\t+ ",
+"rg": [],
+"raw": []
+},
+{
+"id": 244,
+"cat": "whitespace",
+"pat": "  +$",
+"rg": [],
+"raw": []
+},
+{
+"id": 245,
+"cat": "whitespace",
+"pat": "\\r",
+"rg": [],
+"raw": []
+},
+{
+"id": 246,
+"cat": "case-literal-mixed",
+"pat": "Start",
+"rg": [],
+"raw": []
+},
+{
+"id": 247,
+"cat": "case-literal-mixed",
+"pat": "GATE",
+"rg": [],
+"raw": []
+},
+{
+"id": 248,
+"cat": "case-literal-mixed",
+"pat": "State",
+"rg": [],
+"raw": []
+},
+{
+"id": 249,
+"cat": "case-literal-mixed",
+"pat": "EXPORT_SYMBOL_GPL",
+"rg": [],
+"raw": []
+},
+{
+"id": 250,
+"cat": "case-literal-mixed",
+"pat": "Ifdef",
+"rg": [],
+"raw": []
+},
+{
+"id": 251,
+"cat": "case-literal-mixed",
+"pat": "Amdgpu_device",
+"rg": [],
+"raw": []
+},
+{
+"id": 252,
+"cat": "case-literal-mixed",
+"pat": "Result",
+"rg": [],
+"raw": []
+},
+{
+"id": 253,
+"cat": "case-literal-mixed",
+"pat": "Enable",
+"rg": [],
+"raw": []
+},
+{
+"id": 254,
+"cat": "case-literal-mixed",
+"pat": "Gcc_parent_map_1",
+"rg": [],
+"raw": []
+},
+{
+"id": 255,
+"cat": "case-literal-mixed",
+"pat": "Entity",
+"rg": [],
+"raw": []
+},
+{
+"id": 256,
+"cat": "case-literal-mixed",
+"pat": "Out_sg",
+"rg": [],
+"raw": []
+},
+{
+"id": 257,
+"cat": "case-literal-mixed",
+"pat": "Edac",
+"rg": [],
+"raw": []
+},
+{
+"id": 258,
+"cat": "case-literal-mixed",
+"pat": "Expected",
+"rg": [],
+"raw": []
+},
+{
+"id": 259,
+"cat": "case-literal-mixed",
+"pat": "Analog",
+"rg": [],
+"raw": []
+},
+{
+"id": 260,
+"cat": "case-literal-mixed",
+"pat": "Maximum",
+"rg": [],
+"raw": []
+},
+{
+"id": 261,
+"cat": "case-literal-mixed",
+"pat": "EAGAIN",
+"rg": [],
+"raw": []
+}
+]

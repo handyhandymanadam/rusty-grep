@@ -1,0 +1,16 @@
+### /usr agent mode: base vs new (normal), plain new for reference
+== /usr -c e
+hw-new                                   median    215.7 ms  min    210.3
+hw-base:RUSTY_AGENT=1                    median   1063.5 ms  min   1052.7
+hw-new:RUSTY_AGENT=1                     median    305.8 ms  min    299.5
+== /usr -l needle_not_there_xyz
+hw-new                                   median    129.4 ms  min    128.2
+hw-base:RUSTY_AGENT=1                    median   1198.5 ms  min   1180.0
+hw-new:RUSTY_AGENT=1                     median    483.3 ms  min    469.4
+== /usr -n zzzzzz_none
+hw-new                                   median    131.8 ms  min    129.1
+hw-base:RUSTY_AGENT=1                    median   1201.2 ms  min   1187.5
+hw-new:RUSTY_AGENT=1                     median    486.4 ms  min    481.5
+== /usr -c e, agent, detail full
+hw-new                                   median    215.3 ms  min    210.2
+hw-new:RUSTY_AGENT=1,RUSTY_AGENT_DETAIL=full median    559.0 ms  min    555.4

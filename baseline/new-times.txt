@@ -1,0 +1,6 @@
+40k -n alpha                   plain     3.1 ms  agent     3.6 ms  ratio 1.17  stdout 800254B hash b72e4a8fdb41  agent-stderr 530B
+40k -c alpha                   plain     2.5 ms  agent     2.8 ms  ratio 1.11  stdout 3600B hash 129f2d8a6b99  agent-stderr 530B
+40k -l zzzz                    plain     2.3 ms  agent     3.2 ms  ratio 1.39  stdout 0B hash e3b0c44298fc  agent-stderr 488B
+40k rare                       plain     2.4 ms  agent     3.2 ms  ratio 1.33  stdout 0B hash e3b0c44298fc  agent-stderr 488B
+usr -c e                       plain   216.9 ms  agent   309.8 ms  ratio 1.43  stdout 3682924B hash c1b72c33f213  agent-stderr 5961B
+usr -l needle_not_there_xyz    plain   129.3 ms  agent   490.0 ms  ratio 3.79  stdout 0B hash e3b0c44298fc  agent-stderr 6664B

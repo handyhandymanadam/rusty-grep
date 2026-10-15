@@ -1,0 +1,30 @@
+=== new normal
+40k -n alpha (success)                        530 B     1 records  {'summary': 530}
+40k -c zzzz (no match)                        488 B     1 records  {'summary': 488}
+40k -l zzzz -t py (nothing searched)          649 B     2 records  {'diagnostic': 271, 'summary': 378}
+40k bad regex                                 336 B     1 records  {'diagnostic': 336}
+40k missing path                              593 B     3 records  {'diagnostic': 514, 'summary': 79}
+40k --limit 10 -n alpha                       642 B     1 records  {'summary': 642}
+40k --within 2                                432 B     1 records  {'summary': 432}
+/usr -c e (errors flood)                     5961 B    34 records  {'diagnostic': 5071, 'summary': 890}
+/usr -l needle_not_there_xyz                 6664 B    34 records  {'diagnostic': 5071, 'summary': 1593}
+=== new full
+40k -n alpha (success)                        958 B     1 records  {'summary': 958}
+40k -c zzzz (no match)                       1131 B     1 records  {'summary': 1131}
+40k -l zzzz -t py (nothing searched)         1495 B     2 records  {'diagnostic': 549, 'summary': 946}
+40k bad regex                                 507 B     1 records  {'diagnostic': 507}
+40k missing path                             1444 B     3 records  {'diagnostic': 989, 'summary': 455}
+40k --limit 10 -n alpha                      1081 B     1 records  {'summary': 1081}
+40k --within 2                                881 B     1 records  {'summary': 881}
+/usr -c e (errors flood)                    18374 B    34 records  {'diagnostic': 16776, 'summary': 1598}
+/usr -l needle_not_there_xyz                19515 B    34 records  {'diagnostic': 16776, 'summary': 2739}
+=== new brief
+40k -n alpha (success)                        345 B     1 records  {'summary': 345}
+40k -c zzzz (no match)                        290 B     1 records  {'summary': 290}
+40k -l zzzz -t py (nothing searched)          479 B     2 records  {'diagnostic': 271, 'summary': 208}
+40k bad regex                                 317 B     1 records  {'diagnostic': 317}
+40k missing path                              593 B     3 records  {'diagnostic': 514, 'summary': 79}
+40k --limit 10 -n alpha                       457 B     1 records  {'summary': 457}
+40k --within 2                                281 B     1 records  {'summary': 281}
+/usr -c e (errors flood)                     5467 B    34 records  {'diagnostic': 5071, 'summary': 396}
+/usr -l needle_not_there_xyz                 5472 B    34 records  {'diagnostic': 5071, 'summary': 401}

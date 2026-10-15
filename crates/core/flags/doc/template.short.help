@@ -1,0 +1,41 @@
+harrier !!VERSION!!
+Based on ripgrep by Andrew Gallant <jamslam@gmail.com>
+
+harrier (hw), a fork of ripgrep, recursively searches the current directory for lines matching
+a regex pattern. By default, harrier will respect gitignore rules and
+automatically skip hidden files/directories and binary files.
+
+Use -h for short descriptions and --help for more details.
+
+Upstream ripgrep: https://github.com/BurntSushi/ripgrep
+
+USAGE:
+  hw [OPTIONS] PATTERN [PATH ...]
+
+POSITIONAL ARGUMENTS:
+  <PATTERN>   A regular expression used for searching.
+  <PATH>...   A file or directory to search.
+
+INPUT OPTIONS:
+!!input!!
+
+SEARCH OPTIONS:
+!!search!!
+
+FILTER OPTIONS:
+!!filter!!
+
+OUTPUT OPTIONS:
+!!output!!
+
+OUTPUT MODES:
+!!output-modes!!
+
+INDEXING:
+!!indexing!!
+
+LOGGING OPTIONS:
+!!logging!!
+
+OTHER BEHAVIORS:
+!!other-behaviors!!
